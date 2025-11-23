@@ -50,26 +50,38 @@ I enjoy turning raw data into meaningful insights and building scalable pipeline
 
 ## 📌 Featured Projects  
 
-### 🔹 Lending Market Club — Loan Marketplace Analytics  
+### 🔹 1. Lending Market Club — Loan Marketplace Analytics  
 **Tech:** Python, Jupyter Notebook, Pandas, Data Visualization  
-**Repo:** https://github.com/imvdharmesh/lending-market-club  
+🔗 **Repo:** https://github.com/YOUR_USERNAME/lending-market-club  
 
-Lending Market Club is a marketplace that connects borrowers seeking personal loans with investors looking to lend money and earn returns.
+Lending Market Club is a marketplace connecting borrowers seeking personal loans with investors looking to lend money and earn returns.
 
-### 🔍 Project Highlights
-- Performed **exploratory data analysis (EDA)** on loan applications, borrower attributes, and investor activity  
-- Evaluated **loan performance**, default risk, and borrower segmentation  
-- Built visual dashboards inside Jupyter Notebook for:  
-  - Loan grade distribution  
-  - Interest rate trends  
-  - Risk analysis  
-  - Charged-off vs fully-paid patterns  
-- Applied **data cleaning, feature exploration, and descriptive statistics**
+**Highlights:**
+- Performed detailed EDA on borrower profiles, loan performance & investor risk  
+- Visualized interest rates, loan grades, default patterns & risk indicators  
+- Cleaned and transformed raw datasets  
+- Provided insights useful for loan approval and investment decisions
 
-### 🎯 Outcomes
-- Identified top factors influencing loan approval & performance  
-- Provided insights to improve investor decision-making and risk scoring  
-- Demonstrated strong analytical capabilities using real-world lending datasets
+---
+
+### 🔹 2. GithubUserInfo — Python Package to Fetch GitHub Profile Data  
+**Tech:** Python, Requests, BeautifulSoup, Web Scraping  
+🔗 **Repo:** https://github.com/YOUR_USERNAME/GithubUserInfo  
+📦 **PyPI:** https://pypi.org/project/GithubUserInfo/
+
+GithubUserInfo is a Python package that retrieves public GitHub user account details using web scraping.
+
+**Highlights:**
+- Fetches name, username, bio, followers, stars, repos, location, website & more  
+- Provides both:
+  - `get(username)` → return all data as a dictionary  
+  - `set(username)` → load profile & call functions individually  
+- Easy to integrate into automation scripts or applications  
+- Published on PyPI using your own custom package name  
+
+---
+
+## ⭐ More projects coming soon…
 
 ---
 
