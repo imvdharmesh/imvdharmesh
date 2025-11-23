@@ -50,34 +50,50 @@ I enjoy turning raw data into meaningful insights and building scalable pipeline
 
 ## 📌 Featured Projects  
 
+---
+
 ### 🔹 1. Lending Market Club — Loan Marketplace Analytics  
-**Tech:** Python, Jupyter Notebook, Pandas, Data Visualization  
-🔗 **Repo:** https://github.com/YOUR_USERNAME/lending-market-club  
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
 
-Lending Market Club is a marketplace connecting borrowers seeking personal loans with investors looking to lend money and earn returns.
+Lending Market Club is a marketplace that connects borrowers seeking personal loans with investors aiming to earn returns.  
+This project analyzes borrower profiles, loan defaults, and investor risks using in-depth data exploration.
 
-**Highlights:**
-- Performed detailed EDA on borrower profiles, loan performance & investor risk  
-- Visualized interest rates, loan grades, default patterns & risk indicators  
-- Cleaned and transformed raw datasets  
-- Provided insights useful for loan approval and investment decisions
+#### ⭐ Highlights
+- Comprehensive EDA to understand borrower behaviour  
+- Analysis of loan grades, interest rates, credit scores, DTI ratio  
+- Identifying high-risk segments and default patterns  
+- Visual statistical insights for lending decisions  
+- Clean, well-documented Jupyter notebook workflow  
 
 ---
 
 ### 🔹 2. GithubUserInfo — Python Package to Fetch GitHub Profile Data  
-**Tech:** Python, Requests, BeautifulSoup, Web Scraping  
-🔗 **Repo:** https://github.com/YOUR_USERNAME/GithubUserInfo  
-📦 **PyPI:** https://pypi.org/project/GithubUserInfo/
+**Tech:** Python, GitHub API, Requests, Packaging, PyPI  
 
-GithubUserInfo is a Python package that retrieves public GitHub user account details using web scraping.
+GithubUserInfo is a custom Python package that fetches a user’s GitHub profile details (repos, followers, languages used, etc.) through the GitHub API.
 
-**Highlights:**
-- Fetches name, username, bio, followers, stars, repos, location, website & more  
-- Provides both:
-  - `get(username)` → return all data as a dictionary  
-  - `set(username)` → load profile & call functions individually  
-- Easy to integrate into automation scripts or applications  
-- Published on PyPI using your own custom package name  
+#### ⭐ Highlights
+- Lightweight Python package with modular architecture  
+- Supports fetching user details, repositories, follower stats  
+- Clean API wrapper built using the `requests` module  
+- Packaged with `setup.py` for publishing on PyPI  
+- Useful for automation, dashboards, GitHub analytics tools  
+
+---
+
+### 🔹 3. Money Spent Tracker — Full Django Expense Management System  
+**Tech:** Django, Python, SQLite, HTML/CSS, Bootstrap, Django ORM, Excel Export  
+
+A complete web-based expense tracking system built using Django.  
+Allows users to record, edit, delete, and analyze daily expenses with a simple, clean interface.
+
+#### ⭐ Features
+- **Authentication system** with login/logout  
+- **CRUD** operations for managing expenses  
+- **Filtering** by category, date, or amount  
+- **Excel export** for offline analysis  
+- Fully structured Django app with templates, forms, views, static files  
+- Responsive UI with improved layouts and admin integration  
 
 ---
 
