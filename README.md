@@ -50,10 +50,26 @@ I enjoy turning raw data into meaningful insights and building scalable pipeline
 
 ## 📌 Featured Projects  
 
-### 🔹 **1. Sales Analytics Dashboard (Power BI)**
-- Built interactive dashboards for sales trends, forecasting & KPI tracking  
-- Implemented DAX measures, data modelling & automated refresh  
-- **Tech:** Power BI, SQL
+### 🔹 Lending Market Club — Loan Marketplace Analytics  
+**Tech:** Python, Jupyter Notebook, Pandas, Data Visualization  
+**Repo:** https://github.com/imvdharmesh/lending-market-club  
+
+Lending Market Club is a marketplace that connects borrowers seeking personal loans with investors looking to lend money and earn returns.
+
+### 🔍 Project Highlights
+- Performed **exploratory data analysis (EDA)** on loan applications, borrower attributes, and investor activity  
+- Evaluated **loan performance**, default risk, and borrower segmentation  
+- Built visual dashboards inside Jupyter Notebook for:  
+  - Loan grade distribution  
+  - Interest rate trends  
+  - Risk analysis  
+  - Charged-off vs fully-paid patterns  
+- Applied **data cleaning, feature exploration, and descriptive statistics**
+
+### 🎯 Outcomes
+- Identified top factors influencing loan approval & performance  
+- Provided insights to improve investor decision-making and risk scoring  
+- Demonstrated strong analytical capabilities using real-world lending datasets
 
 ---
 
