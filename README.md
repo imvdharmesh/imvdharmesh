@@ -50,10 +50,9 @@ I enjoy turning raw data into meaningful insights and building scalable pipeline
 
 ## 📌 Featured Projects  
 
----
-
 ### 🔹 1. Lending Market Club — Loan Marketplace Analytics  
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook  
+🔗 **Repo:** https://github.com/imvdharmesh/lending-market-club
 
 Lending Market Club is a marketplace that connects borrowers seeking personal loans with investors aiming to earn returns.  
 This project analyzes borrower profiles, loan defaults, and investor risks using in-depth data exploration.
@@ -69,6 +68,7 @@ This project analyzes borrower profiles, loan defaults, and investor risks using
 
 ### 🔹 2. GithubUserInfo — Python Package to Fetch GitHub Profile Data  
 **Tech:** Python, GitHub API, Requests, Packaging, PyPI  
+🔗 **Repo:** https://github.com/imvdharmesh/GithubUserInfo
 
 GithubUserInfo is a custom Python package that fetches a user’s GitHub profile details (repos, followers, languages used, etc.) through the GitHub API.
 
@@ -83,6 +83,7 @@ GithubUserInfo is a custom Python package that fetches a user’s GitHub profile
 
 ### 🔹 3. Money Spent Tracker — Full Django Expense Management System  
 **Tech:** Django, Python, SQLite, HTML/CSS, Bootstrap, Django ORM, Excel Export  
+🔗 **Repo:** https://github.com/imvdharmesh/money_spent_tracker  
 
 A complete web-based expense tracking system built using Django.  
 Allows users to record, edit, delete, and analyze daily expenses with a simple, clean interface.
@@ -103,6 +104,7 @@ Allows users to record, edit, delete, and analyze daily expenses with a simple, 
 
 ## 📫 Connect With Me
 📧 **Email:** dharmeshvishwakarma2000@gmail.com
+
 💼 **LinkedIn:** https://www.linkedin.com/in/imvdharmesh/
 
 ---
